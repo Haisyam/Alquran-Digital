@@ -84,7 +84,9 @@ This project is licensed under the MIT License. See the [LICENSE](LICENSE) file 
 
 ## 🌐 Live Demo
 
-Check out the live version of the app: [Live Demo Link](https://muslimdigital.vercel.app/)
+Check out the live version of the app:
+[Live Demo Website Link](https://muslimdigital.vercel.app/)
+[Aplication Download Link](https://file.haisyam.com/Applications/Al-Quran%20Digital.apk)
 
 ---
 
