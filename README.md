@@ -78,6 +78,7 @@ This project is licensed under the MIT License. See the [LICENSE](LICENSE) file 
 ## 🙏 Acknowledgments
 
 - **Quran API**: [EQuran.id](https://equran.id/apidev/v2)
+- **Doa-doa API**: [Open API by Santrikoding](ttps://open-api.my.id/doa)
 - **Prayer Times API**: [RyzenAPI](https://apidl.asepharyana.cloud/docs/)
 - **Inspiration**: To make worship easier for everyone.
 
