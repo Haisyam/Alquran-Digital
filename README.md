@@ -1,6 +1,6 @@
 # 📖✨ Islamic Web App ✨📱
 
-![Project Demo](link-gambar-demo)
+![Project Demo](https://github.com/Haisyam/Alquran-Digital/blob/main/demo.png)
 
 ## 🌟 About the Project
 
